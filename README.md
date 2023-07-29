@@ -9,7 +9,9 @@ This is 6th code push for the Admin Portal, for building this portal I am using 
 <br/>
 
 <b>Highlights of 6th Push</b> <br/>
-
+Business logic added in auth.service.ts file  <br/>
+Validation In Registration form added <br/>
+Code added in auth guard inside auth folder <br/>
 
 <br>
 
